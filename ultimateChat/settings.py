@@ -3,7 +3,7 @@ import os
 BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-)g=p!g%&8b_0&jh%2tx5jie7swoj^!)rb*&=a4rum!zt!vdi)!'
 DEBUG = True
-ALLOWED_HOSTS = ['https://firenice.herokuapp.com/']
+ALLOWED_HOSTS = ['firenice.herokuapp.com']
 INSTALLED_APPS = [    
     'django.contrib.admin',
     'django.contrib.auth',
