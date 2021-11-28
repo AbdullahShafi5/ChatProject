@@ -2,7 +2,7 @@ from pathlib import Path
 import os
 BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-)g=p!g%&8b_0&jh%2tx5jie7swoj^!)rb*&=a4rum!zt!vdi)!'
-DEBUG = True
+DEBUG = False
 ALLOWED_HOSTS = ['firenice.herokuapp.com', '127.0.0.1']
 INSTALLED_APPS = [    
     'django.contrib.admin',
