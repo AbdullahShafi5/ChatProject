@@ -89,4 +89,7 @@
     float: left;
     color: #999;
   }
-  
+  .joker{
+    height: 150px;
+    border-radius: 300px;
+  }
